@@ -8,7 +8,7 @@ Currently furthering education in Business Intelligence Analytics.
 https://www.linkedin.com/in/bryant-goodman/
 
 Top skills
-Business Analytics • Social Media Marketing • Small Business Operations • Ecommerce • Finance
+Data Analysis • Ecommerce • Tableau • SQL • Small Business Operations
 
 Co-founder of Sun Bleached
 https://sunbleachedswim.com/
