@@ -1,4 +1,4 @@
-# bryant-gooodman
+# bryant-gooodman-profile
 
 Located in Oahu, Hawaii
 
